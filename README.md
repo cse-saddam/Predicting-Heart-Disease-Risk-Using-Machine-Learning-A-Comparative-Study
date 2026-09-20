@@ -115,8 +115,7 @@ graph LR
 ├── LICENSE                                                                          # MIT License
 ├── README.md                                                                        # Researcher README & documentation
 └── Project Report/
-    ├── Predicting Heart Disease Risk Using Machine Learning A Comparative Study.pdf  # Formal Project Report (PDF)
-    └── Predicting Heart Disease Risk Using Machine Learning A Comparative Study.docx # Formal Project Report (DOCX)
+    └── Predicting Heart Disease Risk Using Machine Learning A Comparative Study.pdf  # Formal Project Report (PDF)
 ```
 
 ---
